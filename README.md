@@ -1,10 +1,10 @@
- Excel Sales Performance Dashboard
+Excel Sales Performance Dashboard
 
- Project Overview
+Project Overview
 An interactive Excel dashboard for analyzing sales performance from 2014 to 2018.
 
  Dashboard Preview
-![Sales Performance Dashboard](Sales Performance Dashboard.png)
+![Sales Performance Dashboard](sales Performance Dashboard.png)
 
  Key Metrics
 - Total Sales
