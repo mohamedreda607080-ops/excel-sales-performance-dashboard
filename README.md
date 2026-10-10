@@ -4,7 +4,7 @@
 An interactive Excel dashboard for analyzing sales performance from 2014 to 2018.
 
  Dashboard Preview
-![Sales Performance Dashboard](dashboard-preview.png)
+![Sales Performance Dashboard](Sales Performance Dashboard)
 
  Key Metrics
 - Total Sales
