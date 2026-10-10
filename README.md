@@ -1,28 +1,29 @@
-Excel Sales Performance Dashboard
+# Excel Sales Performance Dashboard
 
-Project Overview
+## Project Overview
 An interactive Excel dashboard for analyzing sales performance from 2014 to 2018.
 
- Dashboard Preview
-![Sales Performance Dashboard](sales Performance Dashboard.png)
+## Dashboard Preview
 
- Key Metrics
+![Sales Performance Dashboard](Sales%20Performance%20Dashboard.png)
+
+## Key Metrics
 - Total Sales
 - Total Quantity
 - Total Discounts
 - Total Profit
 
- Analysis
+## Analysis
 - Sales by category and region
 - Top 10 sub-categories by sales
 - Top 10 states and customers by sales
 - Yearly sales and profit trends
 
- Tools Used
+## Tools Used
 - Microsoft Excel
 - PivotTables
 - PivotCharts
 - Slicers
 
- Objective
+## Objective
 To present key sales metrics in an interactive dashboard and support data-driven business analysis.
